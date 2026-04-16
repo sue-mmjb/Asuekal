@@ -1,0 +1,253 @@
+Ihna Grace Simon  0:51  
+Important amendment,
+
+Maria  2:27  
+Miss John, Are you here?
+
+Ihna Grace Simon  2:38  
+Hi, Christine,
+
+Speaker 1  2:51  
+hi, guys,
+
+Ihna Grace Simon  3:05  
+I will just call certain perola. I will call Sir Tim once Jonah is here. Is that okay? Guys?
+
+Ihna Grace Simon  3:25  
+Yeah, but I think you need to remind them as well. Yeah,
+
+Ihna Grace Simon  5:27  
+yeah, so sir johnette is trying to join you in now. Oh yeah, there is Sir Tim, hi. Tim, yeah, John is saying that he's logging in now minute or two, sure, yeah,
+
+Ihna Grace Simon  6:45  
+admitting joanette.
+
+Ihna Grace Simon  6:57  
+Hi, sir johnette, hi, Sir Tim Oh.
+
+Speaker 1  7:01  
+Hi
+
+Metro Pacific - Jonet Sanalila  7:08  
+Tim, hi, hello everyone. Hi Jonet, how are you? I'm good. I'm good. I see that you're still on your way to the airport. Sorry about that.
+
+Tim  7:21  
+It's a good time I like to take meetings when, yeah,
+
+Metro Pacific - Jonet Sanalila  7:26  
+okay, very efficient, huh? So again, tomorrow we'll be having a meeting with the Villar group. I think I shared some some questions to avi earlier, with regard to they were asking about how, what's the percentage of the data center? What's the percentage of the administrative offices? I think they're very much concerned about, what's your timeline in developing the property. I guess that has something to do with the how, how it will affect the development of all the other because they have a plan, right? So essentially, they want to know your your plan, so that they they know how they will be able to also so they they can adjust their their plan in that particular area, sure.
+
+Tim  8:26  
+So I can kind of tell you the timelines that we work under, and then you can see if that fits with their timelines. So the first stage is securing power and land. Money does not get mobilized until that is secure. So at some point, if we agree to terms with the bila group, we will have to go to Morocco and make sure that they have generation and somehow enter into a PPA or enter into some agreement that allows us to press forward. That starts the mobilization of the funding. Okay? The next step is getting timelines on environmentals permitting and all of that. The next the issue with that is, obviously, with the permitting, is the transmission lines. What, what attracts me to that is, you know, I saw high power transmission lines in the area. I also see that there must be some power going to the land if there's already a data center pad being built with for stream tech. So I don't want to make assumptions, but I'm assuming that they're going to they've already figured out that they can tap into high power lines in the area, but I have to confirm that. Sorry.
+
+Metro Pacific - Jonet Sanalila  10:03  
+Thank you, but I think there the question revolve around the development plan, like, if you're getting 30 hectares, how much area are you going to use, and what, what will you is it for? Is it going to be an AI factory, a data center first, or maybe an administrative building? I think that's the I mean.
+
+Tim  10:30  
+All right, so I proposed to you a layout for three pods, three separate data center buildings. Each building can be 30 megawatts, okay, or 40 megawatts, okay. So if it's 30 megawatts and three buildings, we would need a plan for Morocco, for for 90, for 90 megawatts. If it's 40 megawatts, then it would be obviously 120 and then each the size of each pod depends on the compute that we put in there, but it's going to be roughly 40 to 50,000 square feet for the data center space. So so the fully built out area would be roughly 100,000 square feet, yes, for the data center okay.
+
+Metro Pacific - Jonet Sanalila  11:23  
+Sorry, Joel, we can hear you. Sorry. All right, so 40, 50,000 square feet per pod,
+
+Tim  11:35  
+is that correct? Per pod? Correct? And then for the, for the call it whatever you want, a IP, O center, whatever for people to do training that that's going to be roughly a one to one ratio. One to one ratio.
+
+Metro Pacific - Jonet Sanalila  11:59  
+We need to say one person, um, person, sorry, one square feet. Square foot.
+
+Tim  12:06  
+Sorry, yes, yeah. So, so if we build one pod, yeah, we'll need roughly the same amount of square feet. Now the the data center can only be one story, which is quite unique for Philippines. But because of that, the weight of the new racks, the new racks for Reuben so Blackwell is about 30, 3600 square, 3600 pounds, and the new Reuben racks are going to be almost over 4000 pounds. So that has to be on concrete and single floor. The single floor, the the the work center, the AI BPO center, that can be multi story, so, so the footprint can be the same as one pod, but we would have to build multiple stories, and then that's just we have to figure out, you know, how much office space that we want to build and how many stories, and then we're going to need to hire a consultant to advise us on the parking lot size. I don't know if this public transportation. I don't know if there's, you know, way, or does everyone need parking? Do they take scooters? I don't know about that.
+
+Metro Pacific - Jonet Sanalila  13:23  
+So okay, so essentially, we're talking about 120,200 50,000 square feet. But this can be multi story, so essentially the footprint would be around 50,040 40 to 50,000 square feet, right, right. If it's three story, okay, plus parking. Now, would you have any plans in the other areas that you have used that we can share to the villa group? I think I sent you, okay,
+
+Tim  13:57  
+I sent you a typography of a three pod layout. Do you have that?
+
+Metro Pacific - Jonet Sanalila  14:03  
+Okay, yeah, actually, I already forwarded it to them, so we can, we can refer them to those photos.
+
+Tim  14:10  
+Okay, so, so the, yeah, the three pods, it could it be 30 or 40 megawatts, and then in between the pods, you'll see three buildings. One is called AI Expo, that that can be, you know, where the office is, and then we have a building for research, and then a building, and then another building. So three buildings, but we can make that one building, I guess. Okay. And that plan is, let me see here, our original plan was 15 hectares per 100 megawatts.
+
+JEH Globe iP17  14:55  
+Yes, yes,
+
+Tim  14:58  
+that's what we usually strive for but we don't know how much power we're going to get.
+
+Metro Pacific - Jonet Sanalila  15:03  
+So, okay, Jone
+
+JEH Globe iP17  15:09  
+is broke. You're going to be working with Maria here, right?
+
+Metro Pacific - Jonet Sanalila  15:13  
+Yes, yes,
+
+JEH Globe iP17  15:15  
+and you can guarantee 100 megs for the area.
+
+Metro Pacific - Jonet Sanalila  15:18  
+Yes, we have spoken to Morocco. Initially, they have several plans in the pipeline, and assuming that, well, we just need to communicate to them as to when we will be getting the power so that they can incorporate our plan with theirs. Okay, okay.
+
+Tim  15:39  
+And also, there's another company called the Mac. They are well funded, also tied into the sovereign wealth fund out of UAE, and they're looking for power in Laguna. And that's the one. Yeah, they signed an agreement with the President.
+
+JEH Globe iP17  16:00  
+So that happened, as I mentioned during our last call team, that happened about six weeks, six weeks ago. Confidentially, we have a very good working relationship with the governor of Laguna. In fact, we're backstabbing her with a lot of her initiatives. I don't think it's going to be an issue to be working with Meralco there, because we're also helping the MVP group in Laguna.
+
+Tim  16:31  
+Yes, and it would be surprising if they could power both 250 in Laguna and us. I don't know if it's coming from the same sources for generation. But, you know, I want to put that out there, and we're actually trying to reach out to them to see if, if it makes sense to collaborate, or, you know, and combine the projects or work separately. So we're still researching that as well, well,
+
+JEH Globe iP17  17:00  
+given what's happening now in in the Middle East, it would make sense for them to, you know, like you have non critical operations in other parts of the world, and deploy, deploy it. You know, here in Southeast Asia, with safer currently at least,
+
+Tim  17:18  
+yeah, the one thing that we have in our pocket is right now, the organization that issues the GPU export licenses the BIS, they're only going to at least for the next six months. They're only going to ship to us headquartered companies. UAE is not going to get chips. Saudi is not going to get chips. And and they kind of know that, I think that they may say something different publicly, but to be a you UAE based company and operating in Philippines and asking, you know, the US or Nvidia to ship servers, that's not going to happen right now. So they need us.
+
+JEH Globe iP17  18:03  
+So everything needs to be coursed through you.
+
+Tim  18:07  
+It has to be, I mean, if someone wants to, well, it could be through Dell, it could be through HP, it could be, you know, through an entity like that, or Oracle. But they have to go through a US, headquartered company.
+
+JEH Globe iP17  18:21  
+Okay, at least that's clear.
+
+Tim  18:23  
+And Dell doesn't operate data centers. HP doesn't operate data centers. So the number of companies that operate data centers, that that do kind of end to end, AI and all that that that the BIS like, specifically the are really low, so it definitely makes sense for them to partner with us.
+
+Metro Pacific - Jonet Sanalila  18:49  
+Sorry, Joel, just a step back, so I was computing, I was converting 50,000 square feet. So that's about roughly 4600 square meter, yes, half hectare. So my question is, so, so the total of 150,000 square feet, equivalent to 1.5 hectares, 1.5 hectares So, and then, even if we add, say, the BPO Training Center Research, which is also about, as you said, one is to one. But in terms of foot print, it could be, say, 50,000 so half hectares, so you will only occupy two hectares. Is this correct? But you will be a user to be getting dirty.
+
+Tim  19:42  
+So we have mechanical too, so the Gen sets will be outside, the Transformers will be outside. We're going to have solar on the roof, but we may have a small solar array outside as well, so that you know that accounts for the extra land that we're going to need. The generators will all be outside. I'll send you a picture of an example of the exterior mechanical Okay, with the transformers, and potentially a substation, depending on the switch gear and what we have to go from high to low voltage. I don't know what Morocco offers if they pay for the substation and then we do a PPA or we put the substation on site. I know that stt had to build their own substation in Fairview. Yes, I believe.
+
+Metro Pacific - Jonet Sanalila  20:40  
+Yeah. Yeah, I think you need to
+
+JEH Globe iP17  20:48  
+and then marketing will do it faster.
+
+Tim  20:52  
+Yeah, we go into these situations assuming we substation. But, yeah,
+
+Metro Pacific - Jonet Sanalila  21:02  
+okay, alright. So I think tomorrow, for tomorrow, they will be requesting for plans they we need to explain, as I've said, the timeline, the timing of the construction, as to which one you will be prioritizing. So essentially, we will tell them that a user will start occupying about three to maybe three to five hectares. But we need to also fill them up with what how we're going to how Azera will, how 30 hectares? Yes, yes,
+
+Tim  21:45  
+I will What?
+
+JEH Globe iP17  21:46  
+Sorry, how your how? Aya Zara will utilize the the remaining 25 hectares out of the 30 if the first phase will involve using the five hectares.
+
+Tim  22:02  
+Well, are they going to care if we secure the land for future pods or
+
+JEH Globe iP17  22:10  
+No, I think they just, they want to have an idea. Sorry, Jonet, they already, they have an in house planner. I think they already have a an overall design for for the entire development. But because we're we've been talking to them and really pushing for you to acquire that, that abandoned facility. They are asking us, through us, they're asking you, what, how you're going to utilize the 30 hectares so they can see if it fits in their overall plan and whatever tweaks they need to make, and, you know, as so as not to unduly disrupt, you know, whatever they already envision for the for that area.
+
+Tim  23:14  
+Okay, so I do want to mention one thing, everything that we are contemplating here would depend on our ability to acquire the abandoned site, if, if they say no to that, it would be hard for me to justify building a data center right next to an existing data center right, unless we were cooperating, unless there was, you know, some sort of collaboration, it would be difficult. So the easiest path is for us to be able to acquire that. We'll call it a concrete pad for now. To acquire the pad, it helps if we can, can take over the plans, the engineering plans, everything with it. And then we plan to start with with that, and do a mini AI factory and serve our current clients as quickly as possible. And then we start rolling out the green field with the 15, and then the other 15, we I don't know what the appetite is for them, where they prefer to sell us the whole 30 or 15 at a time. I guess you can tell me, but we can. We can do it either way, but everything has to flow from starting with that concrete pad.
+
+JEH Globe iP17  24:47  
+Okay, we'll make the we'll make sure to emphasize that, okay, there's no, there's no deal without that, without them giving that up.
+
+Tim  24:56  
+There's no deal, you know, because someone, someone may come in and doing a data center right there, you know what I mean? So we can, and they'll be ahead of us, yeah, so, but we're open to ideas, you know, if it's a collaboration where we have, you know, we help stream tech, build it out for AI, and then we take some of our clients Help, help them monetize that, you know, that's an idea that we can do, or we just buy it outright and take it off their hands. That's another idea. Whatever we're open to it but, but we just can't be separated from it completely, and then have two concurrent data center builds going up in the same area, and then we still don't have what the allocation, power allocation was going to be for that, for stream tech. If we can get that information, that would be great. Like, you know what was was power already commissioned? Was it four megawatts? Was it five megawatts? It looks like a small, you know, small site, maybe even less than four megawatts. I don't know, but, you know, we definitely need to
+
+Unknown Speaker  26:21  
+know that. Yes, okay,
+
+Metro Pacific - Jonet Sanalila  26:27  
+so I think, Well, I'm not sure if Avi communicated to you the immediate next steps. Tim, so what they're expecting is for you and the video group to sign an NDA, feel free to chime in, Joel, and then I think the next expectation would be to send an offer. Right, Joel, offer to purchase Yes, meaning to say that should contain how much you're willing to offer. Because, as I've mentioned to avi, if we allow them to dictate the price, then definitely that would be very high, and we would advise against it. Initially, when we spoke to them, they were giving it to us at 150,000 per square, which is equivalent to the price in Makati and BGC, which is absurd, so, but given that our relationship with them, they said, Okay, you know, look, if they're going to do this AI factory, and it will be the first in the Philippines, it will drive economic growth in the area, then we're willing to consider so why don't you tell them to make an offer? That's that's the last conversation we had with them. As far as this, this particular property is concerned. Now, this is the reason. This is also the reason why we've been asking about the development because we have to convince them that they should be reasonable in giving us, you know, a price. Because at the end of the day, this is not just a lot purchase, but this will trigger activity in the area, which will bring in other locators as well.
+
+JEH Globe iP17  28:20  
+Yeah, it's going to transform the it's going to transform the area, transformative growth, and then it will bring a lot of other businesses for for the landowner. Yes, okay, so,
+
+Metro Pacific - Jonet Sanalila  28:36  
+so given this, may we ask, since you will be arriving here on the 12th or 13th, may we know what's your expectation when you arrive? Would you what's the milestone that you're looking into? What's your target? Because from now until then, we can, you know, propose that, for example, sign an NDA, and then maybe make an offer, and then by the time that you come here, if you're comfortable in making that offer, then probably we can sit down with the owners and, you know, finalize, you know, the purchase of the property.
+
+Tim  29:15  
+Okay, so I need a signal from them that the concrete pad is for sale, and I need to know how many megawatts was allocated. That's the starting point, right? And and then I need to know for sure what we can get for power generation to the land. Everything depends on the power the power allocation to the property, and am I building transmission lines? Am I building, you know, do I have right away, and all of that, I don't even know yet. So, so I can't make an offer, but if everything is in place, if I did, if I can tie in to transmission lines that are, you know, running next to the property, if, if they're willing to sell us the land and it's got four megawatts already assigned to it, that has, that has a value to it, that I can make an offer right away. An offer on raw land versus powered land is 5x to me. Okay, so I can't make an offer. I don't know if it's raw land or powered land, at least, that's clear.
+
+Metro Pacific - Jonet Sanalila  30:32  
+Okay, that's clear. So what we're going to do is to communicate to them, okay, all these requirements, because essentially all of the data requests, well, all relevant documents that you need based on the expression of interest that you sent, they're already available. So please expect that a draft NDA will be sent to you tomorrow, and one signed all these, all these information will be released to you. We so we will work on your query about power
+
+JEH Globe iP17  31:10  
+allocated, power transition
+
+Metro Pacific - Jonet Sanalila  31:12  
+lines, everything by tomorrow. Yeah.
+
+Tim  31:17  
+I mean, I can wrap this up in this trip. So if I can get that information, I don't need long to understand what the value is and enter into an LOI, okay, yeah, it won't take me long at all. Take me 10 minutes
+
+JEH Globe iP17  31:38  
+to get you the information by Jonet, let's, let's schedule a call with the wheeler team tomorrow.
+
+Metro Pacific - Jonet Sanalila  31:44  
+Yes, tomorrow, yes,
+
+JEH Globe iP17  31:45  
+so that we can probably have have some information coming Tim's way by the time he wakes up. Don't wake up to early, Tim, okay.
+
+Tim  32:02  
+Regarding the agent, I don't know who that was, Jonet. I have no idea. So no one is representing us that I know of David Lee too.
+
+Metro Pacific - Jonet Sanalila  32:11  
+Yeah, it was actually the video group who flagged it, and they called us out and asked us, Why? Why is this person talking to us? That person is actually accredited agent and you and the person was asking about that, and, yeah,
+
+Tim  32:32  
+not not, not me. I didn't initiate anything. No one that that I know
+
+Metro Pacific - Jonet Sanalila  32:38  
+of, yeah, we told them that okay, had nothing to do about it. Maybe that agent is overheard, or the person was asked to do something but misunderstood. Yeah.
+
+Tim  32:55  
+I mean, there are companies. There's a there's a company that just got acquired by Equinix called Tim. Those people, I think transitioned out, and I think they're looking to try to get iozara, my company, involved in some of what they're doing. So they might be representing us, but not to my knowledge. So it could be Tim, it could be SDT, but certainly not with my permission.
+
+Metro Pacific - Jonet Sanalila  33:24  
+Okay, okay, don't worry about it. We already spoke to them. Okay, okay, so we should be able to update you by tomorrow. So tomorrow, please expect a draft NDA, and then a response to your query about the power. And then let's try to finalize the next steps until you arrive here, so that will be all efficient. Okay, okay.
+
+Tim  33:55  
+And then, obviously, we for a thing, and to provide I F in Saudi, okay, project, they've got an EV company called seer, C, E R that we're doing AI for. And obviously they're dodging missiles right now, if we do enter into loi, there could be some we're going to need, like, you know, a lot of due diligence time. And you know that I just don't want them to expect 30 days due diligence. You know, we're gonna need more time, okay? And I don't know how you want to express that if you do or you don't, but all of our meetings were canceled for this week for UAE and Saudi So, okay,
+
+JEH Globe iP17  34:52  
+I think that's understandable. That's happening. We'll just explain to them that some of your partners are currently fighting for their not only their businesses, but their own survival,
+
+Tim  35:05  
+their oil field are getting bombed so that, you know, they're not really thinking right now, data center in Philippines, huh? Given the
+
+Metro Pacific - Jonet Sanalila  35:13  
+power sources, right?
+
+Tim  35:14  
+Yeah, they're going after they're going after the refineries. They're going after the fiber. They're going after fiber backbone. Yeah, they're going after all of it
+
+Metro Pacific - Jonet Sanalila  35:25  
+which, which is quite surprising, because, you know, Santa military base is not utility.
+
+JEH Globe iP17  35:35  
+All wars these days are asymmetrical. Nothing is sacred anymore, yeah, and it all started with Israel bombing Iran's embassy in Lebanon,
+
+Tim  35:50  
+you know, but you know, there is this concept that, you know, it's probably a bad timing, but they do know that they need to spread out their IT infrastructure. So it does
+
+JEH Globe iP17  36:03  
+agree, Tim, that's exactly what we were discussing. Yeah, we need to close this, because a lot of others would probably have the same idea. To go to this, to go to this, to go to this region and start just, you know, buying land to protect their interest exactly what it is.
+
+Metro Pacific - Jonet Sanalila  36:23  
+Yeah, you can even run by sending the space anyway,
+
+Tim  36:28  
+airport guys, I gotta run. Okay, see you.
+
+Metro Pacific - Jonet Sanalila  36:33  
+Thank you, everyone.
+
+JEH Globe iP17  36:34  
+Bye, thank you. Bye, bye, bye.
+
+Transcribed by https://otter.ai
